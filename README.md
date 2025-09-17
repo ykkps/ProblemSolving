@@ -1,6 +1,6 @@
-# LeetCode Study Group 🧠
+# BOJ Study Group 🧠
 
-Welcome to our collaborative LeetCode study repository\! This space is for us to practice problem-solving, learn from each other's code, and track our progress.
+Welcome to our collaborative BOJ study repository\! This space is for us to practice problem-solving, learn from each other's code, and track our progress.
 
 ## 🚀 Getting Started
 
